@@ -3,7 +3,7 @@
 
 -------------------------------------------------------------
 
-Compiled with [oncrpc_win32_release_2.zip]
+patch and compile with [oncrpc_win32_release_2.zip]
 
 201508
 
