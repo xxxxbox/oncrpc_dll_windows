@@ -128,7 +128,7 @@ typedef	bool_t (*xdrproc_t)();
 /*
  * The XDR handle.
  * Contains operation which is being applied to the stream,
- * an operations vector for the paticular implementation (e.g. see xdr_mem.c),
+ * an operations vector for the particular implementation (e.g. see xdr_mem.c),
  * and two private fields for the use of the particular impelementation.
  */
 typedef struct {

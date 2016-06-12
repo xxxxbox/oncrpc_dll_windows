@@ -349,7 +349,7 @@ svctcp_destroy(xprt)
 static struct timeval wait_per_try = { 35, 0 };
 
 /*
- * reads data from the tcp conection.
+ * reads data from the tcp connection.
  * any error is fatal and the connection is closed.
  * (And a read of zero bytes is a half closed stream => error.)
  */

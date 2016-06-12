@@ -4,7 +4,7 @@
  * ESRF, BP 220, F-38640 Grenoble, CEDEX
  * klotz-tech@esrf.fr
  *
- * SUN's ONC RPC for Windows NT and Windows 95. Ammended port from
+ * SUN's ONC RPC for Windows NT and Windows 95. Amended port from
  * Martin F.Gergeleit's distribution. This version has been modified
  * and cleaned, such as to be compatible with Windows NT and Windows 95. 
  * Compiler: MSVC++ version 4.2 and 5.0.
